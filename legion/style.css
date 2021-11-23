@@ -1,0 +1,50 @@
+/*Allgemein*/
+body {
+  font-family: Road Rage;
+  font-size: 1.6rem;
+}
+
+.orange {
+  color: #ffb900;
+}
+
+.navbar,
+.carousel {
+  border-bottom: 1px solid #888;
+}
+
+/*Navigation*/
+.nav-link {
+  cursor: pointer;
+}
+
+.nav-link:active,
+.nav-link:hover {
+  color: #ffb900 !important;
+}
+
+.icon-link:active svg,
+.icon-link:hover svg {
+  color: #ffb900;
+}
+
+.logo {
+  text-align: center;
+}
+
+/*Slider*/
+.slider-image {
+  width: 100vw;
+  height: 70vh;
+  background-position: center;
+  background-size: cover;
+}
+
+/*Footer*/
+.footer {
+  font-family: sans-serif;
+  font-size: 1rem;
+  text-align: center;
+  border-top: 1px solid #888;
+}
+/*# sourceMappingURL=style.css.map */
